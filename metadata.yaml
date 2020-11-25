@@ -1,0 +1,41 @@
+_repo: Prodigal-Weapon_63695
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, C. A. (Cornelius Anthony)
+    alias: Murphy, Cornelius Anthony
+    birthdate: 1898
+    deathdate: 1984
+    gutenberg_agent_id: '52499'
+    url: http://www.gutenberg.org/2009/agents/52499
+creator:
+  author:
+    agent_name: Garson, Bill
+    aliases:
+    - Garson, Vaseleos
+    - Geovanes, Basilios
+    - Garson, William J.
+    - Garson, Billie
+    birthdate: 1917
+    deathdate: 2000
+    gutenberg_agent_id: '33727'
+    url: http://www.gutenberg.org/2009/agents/33727
+description: ''
+gutenberg_issued: '2020-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Slaves -- Fiction'
+- GITenberg
+title: Prodigal Weapon
+url: http://www.gutenberg.org/ebooks/63695
